@@ -3,7 +3,8 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Seunghun Yu </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 새로운 가치를 창출하는 것에 진심인 개발자입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 새로운 가치를 창출하는 것에 진심인 개발자입니다. </div>
+    <a href="https://hunsy9.github.io/about" style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 이력서 및 포트폴리오 사이트(업데이트 중) </div>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
