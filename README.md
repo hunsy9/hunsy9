@@ -3,7 +3,7 @@
     <div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Seunghun Yu </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 백엔드 개발에 관심이 많습니다. </div>
-    <a href="https://hunsy9.github.io/about" style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 이력서 및 포트폴리오 사이트(업데이트 중) </div>
+    <a href="https://hunsy9.github.io/about" style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 이력서 및 포트폴리오 사이트 </div>
     </div>
     <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks Experienced </h2> <br> 
