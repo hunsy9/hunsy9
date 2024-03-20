@@ -1,23 +1,22 @@
-
-<div align= "left"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Seunghun Yu </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 백엔드 개발에 관심이 많습니다. </div>
-    <a href="https://hunsy9.github.io/about" style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 이력서 및 포트폴리오 </div>
-    <a href="https://github.com/hunsy9/Shade" style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 개인프로젝트 </div>
-    <a href="https://github.com/PNU-CSEP" style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 팀 프로젝트 </div>
-    </div>
-    </div>
-    <div align= "left">
+# Seunghun Yu
+- 백엔드, 인프라 개발에 관심이 많습니다.
+- [이력서 및 포트폴리오](https://hunsy9.github.io/about)
+- **개인 프로젝트**: 개발 조직을 위한 서버 접속 협업 툴 [Shade](https://github.com/hunsy9/Shade)
+- **팀 프로젝트**: 부산대학교 학생들을 위한 온라인 저지 플랫폼 [CSEP](https://github.com/PNU-CSEP)
         
 ## Tech Stacks Experienced
 
 ### Language
+<div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+</div>
 
 ### Web Framework
+<div>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
+</div>
 
 ### App Framework
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white">
