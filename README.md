@@ -2,8 +2,9 @@
 <div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Seunghun Yu </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 백엔드 개발에 관심이 많습니다. </div>
-    <a href="https://hunsy9.github.io/about" style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 이력서 및 포트폴리오 사이트 </div>
+    <a href="https://hunsy9.github.io/about" style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 이력서 및 포트폴리오 </div>
     <a href="https://github.com/hunsy9/Shade" style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 개인프로젝트 </div>
+    <a href="https://github.com/PNU-CSEP" style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 팀 프로젝트 </div>
     </div>
     </div>
     <div align= "left">
