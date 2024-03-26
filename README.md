@@ -24,9 +24,9 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
 
 ## Experience
-| Period        | Job                 | Position                 |
-|---------------|---------------------|--------------------------|
-| 23.11 ~       | SW Edu Center - PNU | Undergraduate Researcher |
-| 23.03 ~       | OS LAB - PNU        | Undergraduate Researcher |
-| 23.01 ~ 23.11 | OntheLive Inc.      | Software Engineer        |
-| 22.03 ~ 22.12 | Sandburg Inc.       | Software Engineer        |
+| Period        | Job                 | Position                 | Projects                 |
+|---------------|---------------------|--------------------------|--------------------------|
+| 23.11 ~       | SW Edu Center - PNU | Undergraduate Researcher | 부산대학교 온라인 저지 플랫폼 CSEP |
+| 23.03 ~       | OS LAB - PNU        | Undergraduate Researcher | In Storage Computing Research |
+| 23.01 ~ 23.11 | OntheLive Inc.      | Software Engineer        | Mbest Live, EZON |
+| 22.03 ~ 22.12 | Sandburg Inc.       | Software Engineer        | Credot |
