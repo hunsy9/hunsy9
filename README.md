@@ -1,7 +1,9 @@
 # Seunghun Yu
 - 백엔드, 인프라 개발에 관심이 많습니다.
-- **개인 프로젝트**: 개발 조직을 위한 서버 접속 협업 툴 [Shade](https://github.com/hunsy9/Shade)
-- **팀 프로젝트**: 부산대학교 학생들을 위한 온라인 저지 플랫폼 [CSEP](https://github.com/PNU-CSEP)
+**프로젝트**
+- 개발 조직을 위한 서버 접속 협업 툴 [Shade](https://github.com/hunsy9/Shade)
+- 부산대학교 학생들을 위한 온라인 저지 플랫폼 [CSEP](https://github.com/PNU-CSEP)
+- AWS Rekognition을 이용한 안면 인식 기반 대리출석 방지 서비스 [NoDaeChul](https://github.com/hunsy9/NoDaechul)
         
 ## Tech Stacks Experienced
 
