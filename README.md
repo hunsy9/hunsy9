@@ -1,6 +1,6 @@
 # Seunghun Yu
 
-- 백엔드, 인프라 개발에 관심이 많습니다.
+- Linux 및 백엔드, 인프라 개발에 관심이 많은 학생 개발자입니다.
 
 ## **Conducted Project**
 - 개발 조직을 위한 클라우드 인스턴스 접속 협업 툴 [Shade](https://github.com/hunsy9/Shade)
@@ -21,7 +21,7 @@
 ## Work Experience
 | Period        | Job                 | Position                 | Projects                 |
 |---------------|---------------------|--------------------------|--------------------------|
-| 23.11 ~       | SW Edu Center - PNU | Undergraduate Researcher | 부산대학교 온라인 저지 플랫폼 CSEP |
+| 23.11 ~       | SW Edu Center - PNU | Undergraduate Researcher | 부산대학교 코딩역량강화플랫폼 [CSEP](https://csep.pusan.ac.kr/) |
 | 23.03 ~       | OS LAB - PNU        | Undergraduate Researcher | In Storage Computing Research |
-| 23.01 ~ 23.11 | OntheLive Inc.      | Software Engineer        | Mbest Live, EZON |
+| 23.01 ~ 23.11 | OntheLive Inc.      | Software Engineer        | [Mbest Live](https://www.mbest.co.kr/mlive/aboutlive/), [EZON](https://ezon.ai/) |
 | 22.03 ~ 22.12 | Sandburg Inc.       | Software Engineer        | Credot |
