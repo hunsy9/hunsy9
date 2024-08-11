@@ -1,6 +1,6 @@
 # Seunghun Yu
 
-- Linux 및 백엔드, 인프라 개발에 관심이 많은 학생 개발자입니다.
+- Linux 및 백엔드 개발에 관심이 많은 학생 개발자입니다.
 
 ## **Conducted Project**
 - 부산대학교 온라인 저지 서비스, [코드플레이스](https://github.com/pnu-code-place)
