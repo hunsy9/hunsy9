@@ -22,6 +22,6 @@
 | Period        | Job                 | Position                 | Projects                 |
 |---------------|---------------------|--------------------------|--------------------------|
 | 23.11 ~       | SW Edu Center - PNU | Undergraduate Researcher | [부산대학교 코드플레이스](https://code.pusan.ac.kr/) |
-| 23.03 ~       | OS LAB - PNU        | Undergraduate Researcher | In Storage Computing Research |
+| 23.03 ~       | OS LAB - PNU        | Undergraduate Researcher | In Storage Computing Research(SPDK NVMeOF TCP) |
 | 23.01 ~ 23.11 | OntheLive Inc.      | Software Engineer        | [Mbest Live](https://www.mbest.co.kr/mlive/aboutlive/), [EZON](https://ezon.ai/) |
 | 22.03 ~ 22.12 | Sandburg Inc.       | Software Engineer        | Credot |
