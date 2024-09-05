@@ -1,9 +1,7 @@
-# Seunghun Yu
-
-- Linux 및 백엔드 개발에 관심이 많은 학생 개발자입니다.
+Linux 및 클라우드 네이티브 기술에 관심이 많은 개발자입니다.
 
 ## **Conducted Project**
-- 부산대학교 온라인 저지 서비스, [코드플레이스](https://github.com/pnu-code-place)
+- 온라인 저지 서비스, [코드플레이스](https://github.com/pnu-code-place)
 - 개발 조직을 위한 클라우드 인스턴스 접속 협업 툴 [Shade](https://github.com/hunsy9/Shade)
 - AWS Rekognition을 이용한 안면 인식 기반 대리출석 방지 서비스 [NoDaeChul](https://github.com/hunsy9/NoDaechul)
         
@@ -21,7 +19,7 @@
 ## Work Experience
 | Period        | Job                 | Position                 | Projects                 |
 |---------------|---------------------|--------------------------|--------------------------|
-| 23.11 ~       | SW Edu Center - PNU | Undergraduate Researcher | [부산대학교 코드플레이스](https://code.pusan.ac.kr/) |
-| 23.03 ~       | OS LAB - PNU        | Undergraduate Researcher | In Storage Computing Research(SPDK NVMeOF TCP) |
+| 23.11 ~       | SW Edu Center | Undergraduate Researcher | [코드플레이스](https://code.pusan.ac.kr/) |
+| 23.03 ~       | OS LAB       | Undergraduate Researcher | In Storage Computing Research(SPDK NVMeOF TCP) |
 | 23.01 ~ 23.11 | OntheLive Inc.      | Software Engineer        | [Mbest Live](https://www.mbest.co.kr/mlive/aboutlive/), [EZON](https://ezon.ai/) |
 | 22.03 ~ 22.12 | Sandburg Inc.       | Software Engineer        | Credot |
